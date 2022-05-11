@@ -1,0 +1,29 @@
+html{
+  background-color: rgb(37, 56, 161); font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  background-image: url("file:///C:/Users/Androanish/Downloads/Time-Managemtent-For-Bloggers-Photoroyalty-shutterstock_504511681-FT.png");
+  max-width: auto;
+  max-height: fit-content;
+}
+.container-fluid{
+  background-color:rgb(241, 241, 37);
+  
+}
+.col-2{
+  justify-content: flex;color: rgb(36, 207, 230);
+  border-color: black; border-width: 20px;
+}
+.button{
+  background-color: rgb(66, 210, 230);
+  
+}
+.top{
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#blocks{
+  background-color: rgb(214, 143, 12);
+  border-radius: 20px;
+  font-size: larger;
+}
+.pen{
+    background-image: url("file:///C:/Users/Androanish/Downloads/images%20(11).jpg");
+}
